@@ -2,6 +2,7 @@
 __pycache__/
 *.py[cod]
 *.pyo
+venv/
 backend/venv/
 backend/.venv/
 backend/local.db
